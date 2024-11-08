@@ -1,1 +1,2 @@
-# im2latex
+# Image to Latex
+
